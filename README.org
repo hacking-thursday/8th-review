@@ -1,0 +1,9 @@
+#+TITLE: Hacking Thursday 八週年回顧
+
+# Badge
+[[http://www.gnu.org/licenses/gpl-3.0.txt][https://img.shields.io/badge/license-GPL_3-green.svg?dummy]]
+
+- 時間：2016-08-18
+- 地點：田中園光華店
+
+本簡報使用 [[https://github.com/coldnew/org-ioslide][org-ioslide]] 製作，您可以在[[https://hacking-thursday.github.io/8th-review/slide.html][線上觀看]]。

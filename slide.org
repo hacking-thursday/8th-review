@@ -1,0 +1,80 @@
+#+TITLE: Hacking Thursday 八週年回顧
+#+SUBTITLE: 2016-08-18
+#+AUTHOR: Carl Su
+#+EMAIL: bcbcarl@gmail.com
+
+#+USE_MATHJAX: false
+
+#+FAVICON: images/h4-logo.jpg
+#+ICON: images/h4-logo.jpg
+#+HASHTAG: Hacking Thursday
+
+#+OPTIONS: toc:nil num:nil ^:nil
+
+* About Me
+
+- Hacking Thursday 值日生
+- 熟悉技能
+  + ES2015
+  + Ramda.js
+  + React
+  + Redux
+  + TypeScript
+- GitHub: https://github.com/bcbcarl
+
+* 誰來晚餐：發想
+
+- 改變之一
+  + 票房列為次要考量
+  + 邀請開源貢獻者分享心路歷程
+
+- 改變之二
+  + 著重 15~25 人的小型分享會為主
+  + 回歸在地 focus club 交流形式
+
+- 改變之三
+  + 嘗試推動有講師費的邀請機制
+  + 在自由開放精神下，保有「專注某事，獲得合理報酬」的精神
+  + 支持鼓勵贊助、回饋上游的風氣
+
+* 誰來晚餐：形式
+  
+- 簡報分享形式
+  + 比照一般小型演講的型式
+  + 講者提供 20~40 分鐘的分享, 會後自由交流。
+- 吃飯聊天形式
+  + 邀請講者共進晚餐, 講者分享個人心得與趣聞軼事。
+
+若您也有推薦的講者或想聽的主題的話，請告訴我們！
+
+* 誰來晚餐：活動
+
+http://www.hackingthursday.org/whoscoming2dinner
+
+- 引言 — 參與社群十年來的回顧與感想 (Mat)
+  + 2015-10-15
+  + http://www.hackingthursday.org/whoscoming2dinner151015
+- 漢語語區本地化之路 (bluebat)
+  + 2015-10-22
+  + http://www.hackingthursday.org/whoscoming2dinner-01
+
+* 誰來晚餐：活動（續）
+
+- 隨心所欲送 patch (Kanru)
+  + 2015-11-05
+  + http://www.hackingthursday.org/whoscoming2dinner-02
+- Number theory (魏澤人)
+  + 2016-04-21
+  + https://www.meetup.com/hackingthursday/events/230517429/
+
+* 社群合作
+
+- Emacs Taiwan
+  + https://emacser.tw
+  + https://www.meetup.com/hackingthursday/events/225005844/
+  + https://www.meetup.com/hackingthursday/events/228346941/
+- Clojure Taiwan
+  + http://www.meetup.com/Clojure-tw/
+  + https://twitter.com/clojuretw
+  + https://www.meetup.com/hackingthursday/events/229924386/
+  + https://www.meetup.com/hackingthursday/events/232027568/
